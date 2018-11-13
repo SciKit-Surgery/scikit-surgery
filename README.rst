@@ -65,8 +65,8 @@ Please see the `contributing guidelines`_.
 Useful links
 ^^^^^^^^^^^^
 
-`Source code repository`_
-`Documentation`_
+* `Source code repository`_
+* `Documentation`_
 
 
 Licensing and copyright
