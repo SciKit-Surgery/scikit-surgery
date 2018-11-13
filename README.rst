@@ -14,13 +14,6 @@ scikit-surgery
     :target: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/scikit-surgery/commits/master
     :alt: Test coverage
 
-.. image:: https://travis-ci.org/WEISS/SoftwareRepositories/scikit-surgery.svg?branch=master
-    :target: https://travis-ci.org/WEISS/SoftwareRepositories/scikit-surgery
-    :alt: Travis test status
-
-.. image:: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/scikit-surgery/badges/master/coverage.svg
-   :target: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/scikit-surgery/pipelines
-
 .. image:: https://readthedocs.org/projects/scikit-surgery/badge/?version=latest
     :target: http://scikit-surgery.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
