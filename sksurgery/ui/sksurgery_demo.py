@@ -5,7 +5,7 @@ import six
 
 
 def run_demo(console, text):
-    """Show message"""
+    """Show message with or without console"""
 
     six.print_(text)
 
