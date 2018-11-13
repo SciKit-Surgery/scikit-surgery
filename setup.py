@@ -54,7 +54,7 @@ setup(
         'numpy>1.11',
         'pillow'
         ],
-#test
+#test1
     entry_points={
         'console_scripts': [
             'sksurgery=sksurgery.__main__:main',
