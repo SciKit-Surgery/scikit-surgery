@@ -14,34 +14,23 @@ scikit-surgery
     :target: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/scikit-surgery/commits/master
     :alt: Test coverage
 
-.. image:: https://travis-ci.org/WEISS/SoftwareRepositories/scikit-surgery.svg?branch=master
-    :target: https://travis-ci.org/WEISS/SoftwareRepositories/scikit-surgery
-    :alt: Travis test status
-
-.. image:: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/scikit-surgery/badges/master/coverage.svg
-   :target: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/scikit-surgery/pipelines
-
 .. image:: https://readthedocs.org/projects/scikit-surgery/badge/?version=latest
     :target: http://scikit-surgery.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
 
 
+scikit-surgery is part of the `SNAPPY`_ image guided surgery software project, developed at the `Wellcome EPSRC Centre for Interventional and Surgical Sciences`_, part of `University College London (UCL)`_.
 
-scikit-surgery is a python project that does interesting things. 
-
-Author: Thomas Dowrick
-
-scikit-surgery is part of the `SNAPPY`_ software project, developed at the `Wellcome EPSRC Centre for Interventional and Surgical Sciences`_, part of `University College London (UCL)`_.
-
+This is currently a placeholder project - further development is ongoing.
 
 Installing
 ----------
 
-You can pip install directly from the repository as follows:
+You can install the latest version from PyPI:
 
 ::
 
-    pip install git+https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/scikit-surgery
+    pip install scikit-surgery
 
 
 Developing
