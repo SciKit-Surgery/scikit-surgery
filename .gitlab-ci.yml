@@ -1,3 +1,8 @@
+#Tell Gitlab to load these environental vars from the variables list
+variables:
+  PYPI_USER: SECURE
+  PYPI_PASS: SECURE
+
 stages:
   - build
   - installer
@@ -107,3 +112,33 @@ deploy docs to production:
     - public
   dependencies:
     - build docs
+
+deploy pip to production:
+
+  stage: deploy
+  when: manual
+  only:
+    - tags
+    
+  environment:
+    name: PyPI
+    url: https://pypi.python.org/pypi/scikit-surgeryimage
+    
+  tags:
+    - pip-production
+    
+  artifacts:
+    paths:
+    - dist/
+    
+  script:
+    # Install packages required to build/publish
+    # remove any previous distribution files
+    - pip install wheel twine setuptools
+    - rm -rf dist
+
+    # bundle installer
+    - python setup.py bdist_wheel
+
+    # Upload to testpypi server
+    - twine upload --repository pypi dist/* --username $PYPI_USER --password $PYPI_PASS
