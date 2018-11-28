@@ -53,7 +53,9 @@ setup(
     install_requires=[
         'six>=1.10',
         'numpy>1.11',
-        'pillow'
+        'pillow',
+        'scikit-surgerycore',
+        'scikit-surgeryimage'
         ],
 #test1
     entry_points={
