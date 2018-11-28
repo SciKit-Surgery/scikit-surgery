@@ -21,7 +21,12 @@ scikit-surgery
 
 scikit-surgery is part of the `SNAPPY`_ image guided surgery software project, developed at the `Wellcome EPSRC Centre for Interventional and Surgical Sciences`_, part of `University College London (UCL)`_.
 
-This is currently a placeholder project - further development is ongoing.
+scikit-surgery will install several subpackages:
+
+scikit-surgerycore
+scikit-surgeryimage
+
+each of which can be installed indivudally using pip.
 
 Installing
 ----------
