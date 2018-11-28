@@ -21,12 +21,11 @@ scikit-surgery
 
 scikit-surgery is part of the `SNAPPY`_ image guided surgery software project, developed at the `Wellcome EPSRC Centre for Interventional and Surgical Sciences`_, part of `University College London (UCL)`_.
 
-scikit-surgery will install several subpackages:
+scikit-surgery is a meta-package that will install several other packages:
 
-scikit-surgerycore
-scikit-surgeryimage
+* `scikit-surgerycore`_
+* `scikit-surgeryimage`_
 
-each of which can be installed indivudally using pip.
 
 Installing
 ----------
@@ -96,3 +95,5 @@ Supported by `Wellcome`_ and `EPSRC`_.
 .. _`EPSRC`: https://www.epsrc.ac.uk/
 .. _`contributing guidelines`: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/SNAPPY/scikit-surgery/blob/master/CONTRIBUTING.rst
 .. _`license file`: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/SNAPPY/scikit-surgery/blob/master/LICENSE
+.. _`scikit-surgeryimage`: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/SNAPPY/scikit-surgeryimage
+.. _`scikit-surgerycore`: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/SNAPPY/scikit-surgerycore
