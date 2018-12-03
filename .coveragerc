@@ -4,3 +4,4 @@ omit =
         ./sksurgery/__init__.py
         ./sksurgery/__main__.py
         ./sksurgery/ui/sksurgery_demo.py
+        ./sksurgery/ui/sksurgery_command_line.py
