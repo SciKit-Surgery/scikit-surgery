@@ -14,7 +14,7 @@ setup(
     name='scikit-surgery',
     version=versioneer.get_version(),
     cmdclass=versioneer.get_cmdclass(),
-    description='scikit-surgery',
+    description='scikit-surgery is a meta package to install all scikit-surgery packages',
     long_description=long_description,
     long_description_content_type='text/x-rst',
     url='https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/SNAPPY/scikit-surgery',
@@ -55,7 +55,8 @@ setup(
         'numpy>1.11',
         'pillow',
         'scikit-surgerycore',
-        'scikit-surgeryimage'
+        'scikit-surgeryimage',
+        'scikit-surgeryvtk'
         ],
 #test1
     entry_points={
