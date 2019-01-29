@@ -56,7 +56,8 @@ setup(
         'pillow',
         'scikit-surgerycore',
         'scikit-surgeryimage',
-        'scikit-surgeryvtk'
+        'scikit-surgeryvtk',
+        'scikit-surgeryutils'
         ],
 #test1
     entry_points={
