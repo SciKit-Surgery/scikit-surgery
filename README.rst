@@ -25,6 +25,9 @@ scikit-surgery is a meta-package that will install several other packages:
 
 * `scikit-surgerycore`_
 * `scikit-surgeryimage`_
+* `scikit-surgeryvtk`_
+* `scikit-surgeryutils`_
+
 
 
 Installing
@@ -97,3 +100,5 @@ Supported by `Wellcome`_ and `EPSRC`_.
 .. _`license file`: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/SNAPPY/scikit-surgery/blob/master/LICENSE
 .. _`scikit-surgeryimage`: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/SNAPPY/scikit-surgeryimage
 .. _`scikit-surgerycore`: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/SNAPPY/scikit-surgerycore
+.. _`scikit-surgeryvtk`: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/SNAPPY/scikit-surgeryvtk
+.. _`scikit-surgeryutils`: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/SNAPPY/scikit-surgeryutils
