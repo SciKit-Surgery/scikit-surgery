@@ -63,8 +63,8 @@ You can run the unit tests by installing and running tox:
     pip install tox
     tox
 
-Problems
-^^^^^^^^
+Encountering Problems?
+^^^^^^^^^^^^^^^^^^^^^^
 Please check list of `common issues`_.
 
 Contributing
