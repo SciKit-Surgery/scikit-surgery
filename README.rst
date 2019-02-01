@@ -65,7 +65,7 @@ You can run the unit tests by installing and running tox:
 
 Problems
 ^^^^^^^^
-Please check list of `known_issues`_.
+Please check list of `common issues`_.
 
 Contributing
 ^^^^^^^^^^^^
