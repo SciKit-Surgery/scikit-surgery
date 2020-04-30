@@ -1,17 +1,17 @@
 scikit-surgery
 ===============================
 
-.. image:: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/SNAPPY/scikit-surgery/raw/master/project-icon.png
+.. image:: https://github.com/UCL/scikit-surgery/raw/master/project-icon.png
    :height: 128px
    :width: 128px
-   :target: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/SNAPPY/scikit-surgery
+   :target: https://github.com/UCL/scikit-surgery
 
-.. image:: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/SNAPPY/scikit-surgery/badges/master/build.svg
-   :target: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/SNAPPY/scikit-surgery/pipelines
+.. image:: https://travis-ci.com/UCL/scikit-surgery.svg?branch=master
+   :target: https://travis-ci.com/github/UCL/scikit-surgery
    :alt: GitLab-CI test status
 
-.. image:: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/SNAPPY/scikit-surgery/badges/master/coverage.svg
-    :target: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/SNAPPY/scikit-surgery/commits/master
+.. image:: https://coveralls.io/repos/github/UCL/scikit-surgery/badge.svg?branch=master&service=github
+    :target: https://coveralls.io/github/UCL/scikit-surgery?branch=master
     :alt: Test coverage
 
 .. image:: https://readthedocs.org/projects/scikit-surgery/badge/?version=latest
@@ -19,7 +19,7 @@ scikit-surgery
     :alt: Documentation Status
 
 
-scikit-surgery is part of the `SNAPPY`_ image guided surgery software project, developed at the `Wellcome EPSRC Centre for Interventional and Surgical Sciences`_, part of `University College London (UCL)`_.
+SciKit-Surgery is part of the `SciKitSurgery`_ image guided surgery software project, developed at the `Wellcome EPSRC Centre for Interventional and Surgical Sciences`_, part of `University College London (UCL)`_.
 
 scikit-surgery is a meta-package that will install several other packages:
 
@@ -50,7 +50,7 @@ You can clone the repository using the following command:
 
 ::
 
-    git clone https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/SNAPPY/scikit-surgery
+    git clone https://github.com/UCL/scikit-surgery
 
 
 Running the tests
@@ -94,16 +94,16 @@ Supported by `Wellcome`_ and `EPSRC`_.
 
 
 .. _`Wellcome EPSRC Centre for Interventional and Surgical Sciences`: http://www.ucl.ac.uk/weiss
-.. _`source code repository`: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/SNAPPY/scikit-surgery
+.. _`source code repository`: https://github.com/UCL/scikit-surgery
 .. _`Documentation`: https://scikit-surgery.readthedocs.io
-.. _`SNAPPY`: https://weisslab.cs.ucl.ac.uk/WEISS/PlatformManagement/SNAPPY/wikis/home
+.. _`SciKit-Surgery`: https://github.com/UCL/scikit-surgery/wiki
 .. _`University College London (UCL)`: http://www.ucl.ac.uk/
 .. _`Wellcome`: https://wellcome.ac.uk/
 .. _`EPSRC`: https://www.epsrc.ac.uk/
-.. _`contributing guidelines`: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/SNAPPY/scikit-surgery/blob/master/CONTRIBUTING.rst
-.. _`license file`: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/SNAPPY/scikit-surgery/blob/master/LICENSE
-.. _`scikit-surgeryimage`: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/SNAPPY/scikit-surgeryimage
-.. _`scikit-surgerycore`: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/SNAPPY/scikit-surgerycore
+.. _`contributing guidelines`: https://github.com/UCL/scikit-surgery/blob/master/CONTRIBUTING.rst
+.. _`license file`: https://github.com/UCL/scikit-surgery/blob/master/LICENSE
+.. _`scikit-surgeryimage`: https://github.com/UCL/scikit-surgeryimage
+.. _`scikit-surgerycore`: https://github.com/UCL/scikit-surgerycore
 .. _`scikit-surgeryvtk`: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/SNAPPY/scikit-surgeryvtk
 .. _`scikit-surgeryutils`: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/SNAPPY/scikit-surgeryutils
-.. _`common issues`: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/SNAPPY/scikit-surgery/wikis/Common-Issues
+.. _`common issues`: https://github.com/UCL/scikit-surgery/wikis/Common-Issues
