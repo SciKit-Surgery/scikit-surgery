@@ -2,5 +2,7 @@
 # It is used by pip to manage software dependencies. It is not to be
 # confused with the software requirements, which are listed in
 # doc/requirements.rst
-numpy
-six
+scikit-surgerycore
+scikit-surgeryimage
+scikit-surgeryvtk
+scikit-surgeryutils
