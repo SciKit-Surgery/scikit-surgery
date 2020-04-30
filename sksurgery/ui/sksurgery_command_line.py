@@ -19,11 +19,6 @@ def main(args=None):
                         type=str,
                         help="Text to display")
 
-    parser.add_argument("--console", required=False,
-                        action='store_true',
-                        help="If set, scikit-surgery "
-                             "will not bring up a graphical user interface")
-
     version_string = __version__
     friendly_version_string = version_string if version_string else 'unknown'
     parser.add_argument(
@@ -33,4 +28,4 @@ def main(args=None):
 
     args = parser.parse_args(args)
 
-    run_demo(args.console, args.text)
+    run_demo(args.text)
