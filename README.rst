@@ -8,7 +8,7 @@ scikit-surgery
 
 .. image:: https://travis-ci.com/UCL/scikit-surgery.svg?branch=master
    :target: https://travis-ci.com/github/UCL/scikit-surgery
-   :alt: GitLab-CI test status
+   :alt: Travis CI test status
 
 .. image:: https://coveralls.io/repos/github/UCL/scikit-surgery/badge.svg?branch=master&service=github
     :target: https://coveralls.io/github/UCL/scikit-surgery?branch=master
@@ -19,7 +19,7 @@ scikit-surgery
     :alt: Documentation Status
 
 
-SciKit-Surgery is part of the `SciKitSurgery`_ image guided surgery software project, developed at the `Wellcome EPSRC Centre for Interventional and Surgical Sciences`_, part of `University College London (UCL)`_.
+SciKit-Surgery is part of the `SciKit-Surgery`_ image guided surgery software project, developed at the `Wellcome EPSRC Centre for Interventional and Surgical Sciences`_, part of `University College London (UCL)`_.
 
 scikit-surgery is a meta-package that will install several other packages:
 
