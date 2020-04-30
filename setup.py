@@ -17,7 +17,7 @@ setup(
     description='scikit-surgery is a meta package to install all scikit-surgery packages',
     long_description=long_description,
     long_description_content_type='text/x-rst',
-    url='https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/SNAPPY/scikit-surgery',
+    url='https://github.com/UCL/scikit-surgery',
     author='Thomas Dowrick',
     author_email='t.dowrick@ucl.ac.uk',
     license='BSD-3 license',
@@ -51,9 +51,6 @@ setup(
     ),
 
     install_requires=[
-        'six>=1.10',
-        'numpy>1.11',
-        'pillow',
         'scikit-surgerycore',
         'scikit-surgeryimage',
         'scikit-surgeryvtk',
