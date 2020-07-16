@@ -19,7 +19,7 @@ scikit-surgery
     :alt: Documentation Status
 
 
-SciKit-Surgery is part of the `SciKit-Surgery`_ image guided surgery software project, developed at the `Wellcome EPSRC Centre for Interventional and Surgical Sciences`_, part of `University College London (UCL)`_.
+SciKit-Surgery is developed at the `Wellcome EPSRC Centre for Interventional and Surgical Sciences`_, part of `University College London (UCL)`_.
 
 scikit-surgery is a meta-package that will install several other packages:
 
