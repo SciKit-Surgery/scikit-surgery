@@ -104,6 +104,6 @@ Supported by `Wellcome`_ and `EPSRC`_.
 .. _`license file`: https://github.com/UCL/scikit-surgery/blob/master/LICENSE
 .. _`scikit-surgeryimage`: https://github.com/UCL/scikit-surgeryimage
 .. _`scikit-surgerycore`: https://github.com/UCL/scikit-surgerycore
-.. _`scikit-surgeryvtk`: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/SNAPPY/scikit-surgeryvtk
-.. _`scikit-surgeryutils`: https://weisslab.cs.ucl.ac.uk/WEISS/SoftwareRepositories/SNAPPY/scikit-surgeryutils
+.. _`scikit-surgeryvtk`: https://github.com/UCL/scikit-surgeryvtk
+.. _`scikit-surgeryutils`: https://github.com/UCL/scikit-surgeryutils
 .. _`common issues`: https://github.com/UCL/scikit-surgery/wikis/Common-Issues
