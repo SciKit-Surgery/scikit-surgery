@@ -1,3 +1,3 @@
 scikit-surgeryimage
-=================
-.. include:: ../modules/scikit-surgeryimage/doc/module_ref.rst
+===================
+.. include:: ../modules/scikit-surgeryimage/docs/module_ref.rst
