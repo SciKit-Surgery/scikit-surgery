@@ -6,3 +6,4 @@ scikit-surgerycore
 scikit-surgeryimage
 scikit-surgeryvtk
 scikit-surgeryutils
+scikit-surgerycalibration

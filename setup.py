@@ -54,7 +54,8 @@ setup(
         'scikit-surgerycore',
         'scikit-surgeryimage',
         'scikit-surgeryvtk',
-        'scikit-surgeryutils'
+        'scikit-surgeryutils',
+        'scikit-surgerycalibration'
         ],
 #test1
     entry_points={
