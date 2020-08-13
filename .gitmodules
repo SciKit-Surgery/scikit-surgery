@@ -1,0 +1,16 @@
+[submodule "modules/scikit-surgeryvtk"]
+	path = modules/scikit-surgeryvtk
+	url = https://github.com/UCL/scikit-surgeryvtk
+	branch = master
+[submodule "modules/scikit-surgerycore"]
+	path = modules/scikit-surgerycore
+	url = https://github.com/UCL/scikit-surgerycore
+	branch = master
+[submodule "modules/scikit-surgeryimage"]
+	path = modules/scikit-surgeryimage
+	url = https://github.com/UCL/scikit-surgeryimage
+	branch = master
+[submodule "modules/scikit-surgerycalibration"]
+	path = modules/scikit-surgerycalibration
+	url = https://github.com/UCL/scikit-surgerycalibration
+	branch = master

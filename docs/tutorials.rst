@@ -1,0 +1,1 @@
+.. include:: ../modules/scikit-surgeryvtk/doc/overlay_widget.rst
