@@ -16,3 +16,5 @@ Contents
 
   core
   vtk
+  image
+  calibration

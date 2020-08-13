@@ -1,3 +1,3 @@
 scikit-surgeryvtk
 =================
-.. include:: ../modules/scikit-surgeryvtk/doc/module_ref.rst
+.. include:: ../modules/scikit-surgeryvtk/docs/module_ref.rst

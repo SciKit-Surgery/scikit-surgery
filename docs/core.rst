@@ -1,3 +1,3 @@
 scikit-surgerycore
 ==================
-.. include:: ../modules/scikit-surgerycore/doc/module_ref.rst  
+.. include:: ../modules/scikit-surgerycore/docs/module_ref.rst  

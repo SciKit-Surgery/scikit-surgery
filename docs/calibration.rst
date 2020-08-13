@@ -1,3 +1,3 @@
 scikit-surgerycalibration
 =================
-.. include:: ../modules/scikit-surgerycalibration/doc/module_ref.rst
+.. include:: ../modules/scikit-surgerycalibration/docs/module_ref.rst
