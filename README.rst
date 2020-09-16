@@ -106,4 +106,4 @@ Supported by `Wellcome`_ and `EPSRC`_.
 .. _`scikit-surgerycore`: https://github.com/UCL/scikit-surgerycore
 .. _`scikit-surgeryvtk`: https://github.com/UCL/scikit-surgeryvtk
 .. _`scikit-surgeryutils`: https://github.com/UCL/scikit-surgeryutils
-.. _`common issues`: https://github.com/UCL/scikit-surgery/wikis/Common-Issues
+.. _`common issues`: https://github.com/UCL/scikit-surgery/issues
