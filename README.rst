@@ -6,6 +6,8 @@ scikit-surgery
    :width: 128px
    :target: https://github.com/UCL/scikit-surgery
 
+|
+
 .. image:: https://coveralls.io/repos/github/UCL/scikit-surgery/badge.svg?branch=master&service=github
     :target: https://coveralls.io/github/UCL/scikit-surgery?branch=master
     :alt: Test coverage
