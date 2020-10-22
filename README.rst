@@ -1,14 +1,10 @@
 scikit-surgery
 ===============================
 
-.. image:: https://github.com/UCL/scikit-surgery/raw/master/project-icon.png
+.. image:: https://github.com/UCL/scikit-surgery/raw/master/weiss_logo.png
    :height: 128px
    :width: 128px
    :target: https://github.com/UCL/scikit-surgery
-
-.. image:: https://travis-ci.com/UCL/scikit-surgery.svg?branch=master
-   :target: https://travis-ci.com/github/UCL/scikit-surgery
-   :alt: Travis CI test status
 
 .. image:: https://coveralls.io/repos/github/UCL/scikit-surgery/badge.svg?branch=master&service=github
     :target: https://coveralls.io/github/UCL/scikit-surgery?branch=master
