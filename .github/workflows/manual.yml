@@ -3,9 +3,13 @@ on:
   workflow_dispatch:
 
 jobs:
-  say_hello:
-    runs-on: ubuntu-latest
     steps:
-    - run: |
-        echo "Hello ${{ github.event.inputs.name }}!"
-        echo "- in ${{ github.event.inputs.home }}!"
+      - uses: actions/checkout@v2
+        with:
+          submodules: true
+      - name: Update submodules
+        run: |
+          git submodule update --remote --merge
+          git add -u
+          git commit -m "Update submodules"
+          git push
