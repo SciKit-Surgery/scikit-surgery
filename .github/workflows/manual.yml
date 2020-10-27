@@ -15,7 +15,7 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git submodule update --remote --merge
+          git submodule foreach git pull origin master
           git add -u
           git commit -m "Update submodules"
           git push
