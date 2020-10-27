@@ -18,3 +18,7 @@ Contents
   vtk
   image
   calibration
+  utils
+  surfacematch
+  tf
+  torch
