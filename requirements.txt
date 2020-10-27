@@ -7,3 +7,6 @@ scikit-surgeryimage
 scikit-surgeryvtk
 scikit-surgeryutils
 scikit-surgerycalibration
+scikit-surgerytf
+scikit-surgerytorch
+scikit-surgerysurfacematch
