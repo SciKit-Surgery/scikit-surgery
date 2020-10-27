@@ -14,3 +14,4 @@ jobs:
       - name: Update submodules
         run: |
         git submodule update --remote --merge
+        echo "Hello"
