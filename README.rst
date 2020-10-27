@@ -31,40 +31,6 @@ scikit-surgery is a collection of packages for the development of Image Guided S
 * `scikit-surgerytorch`_ - IGS models implemented in PyTorch
 
 
-
-Installing
-----------
-
-You can install the latest version from PyPI (this will install surgerycore, image, vtk and utils):
-
-::
-
-    pip install scikit-surgery
-
-
-Developing
-----------
-
-Cloning
-^^^^^^^
-
-You can clone the repository using the following command:
-
-::
-
-    git clone https://github.com/UCL/scikit-surgery
-
-
-Running the tests
-^^^^^^^^^^^^^^^^^
-
-You can run the unit tests by installing and running tox:
-
-::
-
-    pip install tox
-    tox
-
 Encountering Problems?
 ^^^^^^^^^^^^^^^^^^^^^^
 Please check list of `common issues`_.
