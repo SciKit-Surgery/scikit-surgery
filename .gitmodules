@@ -14,3 +14,18 @@
 	path = modules/scikit-surgerycalibration
 	url = https://github.com/UCL/scikit-surgerycalibration
 	branch = master
+[submodule "scikit-surgeryutils"]
+	path = scikit-surgeryutils
+	url = https://github.com/UCL/scikit-surgeryutils
+[submodule "modules/scikit-surgeryutils"]
+	path = modules/scikit-surgeryutils
+	url = https://github.com/UCL/scikit-surgeryutils
+[submodule "modules/scikit-surgerytf"]
+	path = modules/scikit-surgerytf
+	url = https://github.com/UCL/scikit-surgerytf
+[submodule "modules/scikit-surgerysurfacematch"]
+	path = modules/scikit-surgerysurfacematch
+	url = https://github.com/UCL/scikit-surgerysurfacematch
+[submodule "modules/scikit-surgerytorch"]
+	path = modules/scikit-surgerytorch
+	url = https://github.com/UCL/scikit-surgerytorch

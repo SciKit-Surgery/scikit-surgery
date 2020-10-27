@@ -19,19 +19,23 @@ scikit-surgery
 
 SciKit-Surgery is developed at the `Wellcome EPSRC Centre for Interventional and Surgical Sciences`_, part of `University College London (UCL)`_.
 
-scikit-surgery is a meta-package that will install several other packages:
+scikit-surgery is a collection of packages for the development of Image Guided Surgery systems.
 
-* `scikit-surgerycore`_
-* `scikit-surgeryimage`_
-* `scikit-surgeryvtk`_
-* `scikit-surgeryutils`_
+* `scikit-surgerycore`_ - Algorithms/tools common to all scikit-surgery packages
+* `scikit-surgeryimage`_ - Image processing algorithms using OpenCV
+* `scikit-surgeryvtk`_ - Implements VTK functionality for IGS applications
+* `scikit-surgeryutils`_ - Example applications/utilities
+* `scikit-surgerycalibration`_ - Calibration algorithms (camera/pointer/ultrasound etc)
+* `scikit-surgerysurfacematch`_ - Stereo reconstruction and point cloud matching
+* `scikit-surgerytf`_ - IGS models implemented in TensorFlow
+* `scikit-surgerytorch`_ - IGS models implemented in PyTorch
 
 
 
 Installing
 ----------
 
-You can install the latest version from PyPI:
+You can install the latest version from PyPI (this will install surgerycore, image, vtk and utils):
 
 ::
 
@@ -104,4 +108,7 @@ Supported by `Wellcome`_ and `EPSRC`_.
 .. _`scikit-surgerycore`: https://github.com/UCL/scikit-surgerycore
 .. _`scikit-surgeryvtk`: https://github.com/UCL/scikit-surgeryvtk
 .. _`scikit-surgeryutils`: https://github.com/UCL/scikit-surgeryutils
+.. _`scikit-surgerytf`: https://github.com/UCL/scikit-surgerytf
+.. _`scikit-surgerytorch`: https://github.com/UCL/scikit-surgerytorch
+.. _`scikit-surgerysurfacematch`: https://github.com/UCL/scikit-surgerysurfacematch
 .. _`common issues`: https://github.com/UCL/scikit-surgery/issues
