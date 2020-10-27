@@ -14,7 +14,6 @@ jobs:
       - name: Update submodules
         run: |
         git submodule update --remote --merge
-        git add modules/*
         git commit -m "Update Submodules"
         git push
     
