@@ -13,6 +13,8 @@ jobs:
         
       - name: Update submodules
         run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           git submodule update --remote --merge
           git add -u
           git commit -m "Update submodules"
