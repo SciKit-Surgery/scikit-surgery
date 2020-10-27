@@ -3,13 +3,18 @@ on:
   workflow_dispatch:
 
 jobs:
+  docs:
+    runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v2
         with:
           submodules: true
+        
       - name: Update submodules
         run: |
-          git submodule update --remote --merge
-          git add -u
-          git commit -m "Update submodules"
-          git push
+        git submodule update --remote --merge
+        git add -u
+        git commit -m "Update Submodules"
+        git push
+    
