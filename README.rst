@@ -29,6 +29,9 @@ scikit-surgery is a collection of packages for the development of Image Guided S
 * `scikit-surgerysurfacematch`_ - Stereo reconstruction and point cloud matching
 * `scikit-surgerytf`_ - IGS models implemented in TensorFlow
 * `scikit-surgerytorch`_ - IGS models implemented in PyTorch
+* `scikit-surgerynditracker`_ - Interface for Northern Digital (NDI) trackers. Vicra, Spectra, Vega, Aurora.
+* `scikit-surgeryarucotracker`_ - Interface for OpenCV ARuCo.
+* `scikit-surgeryspeech`_ - Speech/Wakeword detection
 
 Please see `Documentation`_ for further module details.
 
@@ -103,6 +106,11 @@ Supported by `Wellcome`_ and `EPSRC`_.
 .. _`scikit-surgeryutils`: https://github.com/UCL/scikit-surgeryutils
 .. _`scikit-surgerytf`: https://github.com/UCL/scikit-surgerytf
 .. _`scikit-surgerytorch`: https://github.com/UCL/scikit-surgerytorch
+.. _`scikit-surgeryspeech`: https://github.com/UCL/scikit-surgeryspeech
+.. _`scikit-surgerynditracker`: https://github.com/UCL/scikit-surgerynditracker
+.. _`scikit-surgeryarucotracker`: https://github.com/UCL/scikit-surgeryarucotracker
+
+
 .. _`scikit-surgerysurfacematch`: https://github.com/UCL/scikit-surgerysurfacematch
 .. _`scikit-surgerysurfacecalibration`: https://github.com/UCL/scikit-surgerysurfacecalibration
 .. _`common issues`: https://github.com/UCL/scikit-surgery/issues
