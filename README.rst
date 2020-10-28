@@ -32,6 +32,8 @@ scikit-surgery is a collection of packages for the development of Image Guided S
 
 Please see * `Documentation`_ for further module details.
 
+.. include:: docs/tutorials.rst
+
 Encountering Problems?
 ^^^^^^^^^^^^^^^^^^^^^^
 Please check list of `common issues`_.

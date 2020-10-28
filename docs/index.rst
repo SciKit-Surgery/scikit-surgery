@@ -1,14 +1,7 @@
 
 scikit-surgery
 
-Contents
-~~~~~~~~
-
-.. toctree::
-  :caption: Tutorials
-  :maxdepth: 2
-
-  tutorials
+.. include:: tutorials.rst
 
 .. toctree::
   :caption: Module Reference
