@@ -30,22 +30,22 @@ scikit-surgery is a collection of packages for the development of Image Guided S
 * `scikit-surgerytf`_ - IGS models implemented in TensorFlow
 * `scikit-surgerytorch`_ - IGS models implemented in PyTorch
 
-Please see * `Documentation`_ for further module details.
+Please see `Documentation`_ for further module details.
 
 .. include:: docs/tutorials.rst
 
 Encountering Problems?
-^^^^^^^^^^^^^^^^^^^^^^
+-----------------------
 Please check list of `common issues`_.
 
 Contributing
-^^^^^^^^^^^^
+------------
 
 Please see the `contributing guidelines`_.
 
 
 Useful links
-^^^^^^^^^^^^
+------------
 
 * `Source code repository`_
 * `Documentation`_
