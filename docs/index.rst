@@ -1,7 +1,9 @@
 
 scikit-surgery
 
-.. include:: tutorials.rst
+.. include:: ../README.rst
+   :start-after: .. tutorial-start
+   :end-before: .. tutorial-end
 
 .. toctree::
   :caption: Module Reference
