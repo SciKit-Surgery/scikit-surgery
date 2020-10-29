@@ -29,3 +29,9 @@
 [submodule "modules/scikit-surgerytorch"]
 	path = modules/scikit-surgerytorch
 	url = https://github.com/UCL/scikit-surgerytorch
+[submodule "modules/scikit-surgerynditracker"]
+	path = modules/scikit-surgerynditracker
+	url = https://github.com/UCL/scikit-surgerynditracker
+[submodule "modules/scikit-surgeryarucotracker"]
+	path = modules/scikit-surgeryarucotracker
+	url = https://github.com/UCL/scikit-surgeryarucotracker

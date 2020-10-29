@@ -10,3 +10,5 @@ scikit-surgerycalibration
 scikit-surgerytf
 scikit-surgerytorch
 scikit-surgerysurfacematch
+scikit-surgerynditracker
+scikit-surgeryarucotracker
