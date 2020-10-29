@@ -109,7 +109,7 @@ Supported by `Wellcome`_ and `EPSRC`_.
 .. _`scikit-surgeryspeech`: https://github.com/UCL/scikit-surgeryspeech
 .. _`scikit-surgerynditracker`: https://github.com/UCL/scikit-surgerynditracker
 .. _`scikit-surgeryarucotracker`: https://github.com/UCL/scikit-surgeryarucotracker
-
+.. _`scikit-surgerycalibration`: https://github.com/UCL/scikit-surgerycalibration
 
 .. _`scikit-surgerysurfacematch`: https://github.com/UCL/scikit-surgerysurfacematch
 .. _`scikit-surgerysurfacecalibration`: https://github.com/UCL/scikit-surgerysurfacecalibration
