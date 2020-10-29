@@ -17,3 +17,5 @@ scikit-surgery
   surfacematch
   tf
   torch
+  nditracker
+  arucotracker
