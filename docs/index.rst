@@ -1,5 +1,6 @@
 
 scikit-surgery
+==============
 
 .. include:: ../README.rst
    :start-after: .. features-start
