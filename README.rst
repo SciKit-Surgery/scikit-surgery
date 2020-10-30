@@ -16,22 +16,28 @@ scikit-surgery
     :target: http://scikit-surgery.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
 
+.. features-start
 
-SciKit-Surgery is developed at the `Wellcome EPSRC Centre for Interventional and Surgical Sciences`_, part of `University College London (UCL)`_.
+SciKit-Surgery is developed at the `Wellcome EPSRC Centre for Interventional and Surgical Sciences <http://www.ucl.ac.uk/weiss>`_, part of `University College London (UCL) <http://www.ucl.ac.uk/>`_.
 
 scikit-surgery is a collection of packages for the development of Image Guided Surgery systems.
 
-* `scikit-surgerycore`_ - Algorithms/tools common to all scikit-surgery packages
-* `scikit-surgeryimage`_ - Image processing algorithms using OpenCV
-* `scikit-surgeryvtk`_ - Implements VTK functionality for IGS applications
-* `scikit-surgeryutils`_ - Example applications/utilities
-* `scikit-surgerycalibration`_ - Calibration algorithms (camera/pointer/ultrasound etc)
-* `scikit-surgerysurfacematch`_ - Stereo reconstruction and point cloud matching
-* `scikit-surgerytf`_ - IGS models implemented in TensorFlow
-* `scikit-surgerytorch`_ - IGS models implemented in PyTorch
-* `scikit-surgerynditracker`_ - Interface for Northern Digital (NDI) trackers. Vicra, Spectra, Vega, Aurora.
-* `scikit-surgeryarucotracker`_ - Interface for OpenCV ARuCo.
-* `scikit-surgeryspeech`_ - Speech/Wakeword detection
+Packages
+--------
+
+* `scikit-surgerycore <https://github.com/UCL/scikit-surgerycore>`_ - Algorithms/tools common to all scikit-surgery packages
+* `scikit-surgeryimage <https://github.com/UCL/scikit-surgeryimage>`_ - Image processing algorithms using OpenCV
+* `scikit-surgeryvtk <https://github.com/UCL/scikit-surgeryvtk>`_ - Implements VTK functionality for IGS applications
+* `scikit-surgeryutils <https://github.com/UCL/scikit-surgeryutils>`_ - Example applications/utilities
+* `scikit-surgerycalibration <https://github.com/UCL/scikit-surgerycalibration>`_ - Calibration algorithms (camera/pointer/ultrasound etc)
+* `scikit-surgerysurfacematch <https://github.com/UCL/scikit-surgerysurfacematch>`_ - Stereo reconstruction and point cloud matching
+* `scikit-surgerytf <https://github.com/UCL/scikit-surgerytf>`_ - IGS models implemented in TensorFlow
+* `scikit-surgerytorch <https://github.com/UCL/scikit-surgerytorch>`_ - IGS models implemented in PyTorch
+* `scikit-surgerynditracker <https://github.com/UCL/scikit-surgerynditracker>`_ - Interface for Northern Digital (NDI) trackers. Vicra, Spectra, Vega, Aurora.
+* `scikit-surgeryarucotracker <https://github.com/UCL/scikit-surgeryarucotracker>`_ - Interface for OpenCV ARuCo.
+* `scikit-surgeryspeech <https://github.com/UCL/scikit-surgeryspeech>`_ - Speech/Wakeword detection
+
+.. features-end
 
 Please see `Documentation`_ for further module details.
 
@@ -100,17 +106,4 @@ Supported by `Wellcome`_ and `EPSRC`_.
 .. _`EPSRC`: https://www.epsrc.ac.uk/
 .. _`contributing guidelines`: https://github.com/UCL/scikit-surgery/blob/master/CONTRIBUTING.rst
 .. _`license file`: https://github.com/UCL/scikit-surgery/blob/master/LICENSE
-.. _`scikit-surgeryimage`: https://github.com/UCL/scikit-surgeryimage
-.. _`scikit-surgerycore`: https://github.com/UCL/scikit-surgerycore
-.. _`scikit-surgeryvtk`: https://github.com/UCL/scikit-surgeryvtk
-.. _`scikit-surgeryutils`: https://github.com/UCL/scikit-surgeryutils
-.. _`scikit-surgerytf`: https://github.com/UCL/scikit-surgerytf
-.. _`scikit-surgerytorch`: https://github.com/UCL/scikit-surgerytorch
-.. _`scikit-surgeryspeech`: https://github.com/UCL/scikit-surgeryspeech
-.. _`scikit-surgerynditracker`: https://github.com/UCL/scikit-surgerynditracker
-.. _`scikit-surgeryarucotracker`: https://github.com/UCL/scikit-surgeryarucotracker
-.. _`scikit-surgerycalibration`: https://github.com/UCL/scikit-surgerycalibration
-
-.. _`scikit-surgerysurfacematch`: https://github.com/UCL/scikit-surgerysurfacematch
-.. _`scikit-surgerysurfacecalibration`: https://github.com/UCL/scikit-surgerysurfacecalibration
 .. _`common issues`: https://github.com/UCL/scikit-surgery/issues

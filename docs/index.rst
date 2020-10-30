@@ -2,6 +2,10 @@
 scikit-surgery
 
 .. include:: ../README.rst
+   :start-after: .. features-start
+   :end-before: .. features-end
+
+.. include:: ../README.rst
    :start-after: .. tutorial-start
    :end-before: .. tutorial-end
 
