@@ -1,6 +1,8 @@
 
-scikit-surgery
+SciKit-Surgery
 ==============
+
+.. include:: ./frontpage.rst
 
 .. include:: ../README.rst
    :start-after: .. features-start
