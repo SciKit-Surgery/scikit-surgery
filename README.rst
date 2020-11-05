@@ -16,11 +16,19 @@ scikit-surgery
     :target: http://scikit-surgery.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
 
-.. features-start
+.. introduction-start
+
+SciKit-Surgery is a collection of compact libraries developed for surgical navigation. Individual libraries can
+be combined using Python to create clinical applications for translational research. However because each application's requirements are unique the individual SciKit-Surgery libraries are kept independent, enabling them to be maintained, modified and combined in new ways to create new clinical applications. Keeping the libraries independent enables researchers to implement novel algorithms within a small library that can be readily reused and built on by the research community. 
+
+A typical clinical application might consist of an imaging source (e.g. `SciKit-SurgeryBK`_ to stream ultrasound images), a tracking source (e.g. `SciKitSurgery-NDITracker`_) to locate the images in space, an image processor (e.g. `SciKit-SurgeryTorch`_) to segment anatomy from the image, and a visualisation layer (e.g. `SciKit-SurgeryVTK`_)
 
 SciKit-Surgery is developed at the `Wellcome EPSRC Centre for Interventional and Surgical Sciences <http://www.ucl.ac.uk/weiss>`_, part of `University College London (UCL) <http://www.ucl.ac.uk/>`_.
 
-scikit-surgery is a collection of packages for the development of Image Guided Surgery systems.
+.. introduction-end
+
+.. features-start
+
 
 Packages
 --------
@@ -107,3 +115,8 @@ Supported by `Wellcome`_ and `EPSRC`_.
 .. _`contributing guidelines`: https://github.com/UCL/scikit-surgery/blob/master/CONTRIBUTING.rst
 .. _`license file`: https://github.com/UCL/scikit-surgery/blob/master/LICENSE
 .. _`common issues`: https://github.com/UCL/scikit-surgery/issues
+.. _`SciKit-SurgeryBK`: https://github.com/UCL/scikit-surgerybk
+.. _`SciKit-SurgeryVTK`: https://github.com/UCL/scikit-surgeryvtk
+.. _`SciKitSurgery-NDITracker`: https://github.com/UCL/scikit-surgerynditracker
+.. _`SciKit-SurgeryTorch`: https://github.com/UCL/scikit-surgerytorch
+
