@@ -7,7 +7,7 @@ One way to get an introduction to SciKit-Surgery is to take a look at some the a
 .. raw:: html
 
    <details>
-   <summary><a style="font-size:22px" style="font-family:Helvetica">SmartLiver augmented reality for keyhole surgery</a></summary>
+   <summary><a style="font-size:22px; font-family:Helvetica;">SmartLiver augmented reality for keyhole surgery</a></summary>
 
 .. figure:: images/Clinicians_3.png
   :width: 100%
@@ -20,7 +20,7 @@ The `SmartLiver <https://doi.org/10.1007/s00464-020-07807-x>`_ augmented reality
 .. raw:: html
 
    <details>
-   <summary><a style="font-size:22px" style="font-family:Helvetica">SnappySonic ultrasound simulator</a></summary>
+   <summary><a style="font-size:22px; font-family:Helvetica">SnappySonic ultrasound simulator</a></summary>
 
 .. raw:: html
 
@@ -35,7 +35,7 @@ The `SmartLiver <https://doi.org/10.1007/s00464-020-07807-x>`_ augmented reality
 .. raw:: html
 
    <details>
-   <summary><a style="font-size:22px" style="font-family:Helvetica">SciKit-Surgery Basic Augmented Reality Demonstration</a></summary>
+   <summary><a style="font-size:22px; font-family:Helvetica">SciKit-Surgery Basic Augmented Reality Demonstration</a></summary>
 
 .. figure:: images/bard.gif
   :width: 50%
@@ -49,7 +49,7 @@ The `SmartLiver <https://doi.org/10.1007/s00464-020-07807-x>`_ augmented reality
 .. raw:: html
 
    <details>
-   <summary><a style="font-size:22px" style="font-family:Helvetica">SciKit-Surgery Fiducial Registration Educational Demonstrator</a></summary>
+   <summary><a style="font-size:22px; font-family:Helvetica;">SciKit-Surgery Fiducial Registration Educational Demonstrator</a></summary>
 
 .. raw:: html
 
