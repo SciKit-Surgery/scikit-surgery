@@ -1,0 +1,7 @@
+title: SciKit-Surgery
+description: Compact libraries for surgical navigation
+show_downloads: false
+theme: jekyll-theme-cayman
+darkmode: true
+github:
+  is_project_page: false
