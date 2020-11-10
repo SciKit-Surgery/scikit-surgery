@@ -19,7 +19,7 @@ scikit-surgery
 .. introduction-start
 
 SciKit-Surgery is a collection of compact libraries developed for surgical navigation. Individual libraries can
-be combined using Python to create clinical applications for translational research. However because each application's requirements are unique the individual SciKit-Surgery libraries are kept independent, enabling them to be maintained, modified and combined in new ways to create new clinical applications. Keeping the libraries independent enables researchers to implement novel algorithms within a small library that can be readily reused and built on by the research community. 
+be combined using Python to create clinical applications for translational research. However because each application's requirements are unique the individual SciKit-Surgery libraries are kept independent, enabling them to be maintained, modified and combined in new ways to create new clinical applications. Keeping the libraries independent enables researchers to implement novel algorithms within a small library that can be readily reused and built on by the research community.
 
 A typical clinical application might consist of an imaging source (e.g. `SciKit-SurgeryBK`_ to stream ultrasound images), a tracking source (e.g. `SciKitSurgery-NDITracker`_) to locate the images in space, an image processor (e.g. `SciKit-SurgeryTorch`_) to segment anatomy from the image, and a visualisation layer (e.g. `SciKit-SurgeryVTK`_)
 
@@ -53,24 +53,25 @@ Please see `Documentation`_ for further module details.
 
 Tutorials
 ---------
+Tutorials are split into three groups, those that show how to assemble SciKit-Surgery libraries into an application, those that concentrate on the workings a single application, and those that are aimed at general education in image guided interventions using SciKit-Surgery.
+
+**General Tutorials**
+
+* `Use SciKit-SurgeryUtils and SciKit-SurgeryArUcoTracker to build an AR application using your webcam. <https://scikit-surgerytutorial01.readthedocs.io/en/latest/>`_
 
 **scikit-surgeryvtk**
 
-* `How To Use VTKOverlayWindow <https://scikit-surgeryvtk.readthedocs.io/en/latest/tutorials/overlay_widget.html>`_   
+* `How To Use VTKOverlayWindow <https://scikit-surgeryvtk.readthedocs.io/en/latest/tutorials/overlay_widget.html>`_
 * `Distance Fields & Voxelisation <https://scikit-surgeryvtk.readthedocs.io/en/latest/tutorials/voxelisation.html>`_
 
-**Misc Tutorials**
+**Educational Tutorials**
 
-* `Augmented Reality Tutorial 1 <https://scikit-surgerytutorial01.readthedocs.io/en/latest/>`_
-* `Augmented Reality Tutorial 2 <https://mphy0026.readthedocs.io/en/latest/summerschool/overlay_demo.html#summerschooloverlay>`_
-* `Tutorial on Software Developemnt for Clincal Translation <https://scikit-surgerytutorial02.readthedocs.io/en/latest>`_
-* `Camera Calibration <https://mphy0026.readthedocs.io/en/latest/summerschool/camera_calibration_demo.html#summerschoolcameracalibration>`_
-* `Make and Calibrate a Pointer <https://mphy0026.readthedocs.io/en/latest/summerschool/pivot_calibration_demo.html#summerschoolpivotcalibration>`_
-* `Fiducial Registration Tutorial <https://mphy0026.readthedocs.io/en/latest/summerschool/registration_demo.html#fidregistrationtutorial>`_
-
-**Tutorials Requiring Equipment**
-
-* `Point Based Registration <https://mphy0026.readthedocs.io/en/latest/schedule-2020/workshop-1.html#workshop1pbr>`_
+* `Use a ready made application to investigate different ways of presenting augmented reality. <https://mphy0026.readthedocs.io/en/latest/summerschool/overlay_demo.html#summerschooloverlay>`_
+* `Improve your impact by creating high quality software implementations of your research. <https://scikit-surgerytutorial02.readthedocs.io/en/latest>`_
+* `Camera calibration using your phone or webcam. <https://mphy0026.readthedocs.io/en/latest/summerschool/camera_calibration_demo.html#summerschoolcameracalibration>`_
+* `Make and Calibrate a Pointer. <https://mphy0026.readthedocs.io/en/latest/summerschool/pivot_calibration_demo.html#summerschoolpivotcalibration>`_
+* `Online Fiducial Registration Tutorial. <https://mphy0026.readthedocs.io/en/latest/summerschool/registration_demo.html#fidregistrationtutorial>`_
+* `Point Based Registration using Lego or anatomical phantoms. <https://mphy0026.readthedocs.io/en/latest/schedule-2020/workshop-1.html#workshop1pbr>`_
 * `Camera Calibration of Laparoscopes <https://mphy0026.readthedocs.io/en/latest/schedule-2020/workshop-2.html#workshop2cameracalib>`_
 
 .. tutorial-end
