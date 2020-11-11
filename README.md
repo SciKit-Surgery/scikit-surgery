@@ -28,7 +28,7 @@ Wondering which library is suitable for your job and how to use it? Check out th
 | [scikit-surgerytorch](https://github.com/UCL/scikit-surgerytorch)               | IGS models implemented in PyTorch. [Read more...](https://scikit-surgerytorch.readthedocs.io/en/latest/?badge=latest)                                            |
 | [scikit-surgerynditracker](https://github.com/UCL/scikit-surgerynditracker)     | Interface for Northern Digital (NDI) trackers. Vicra, Spectra, Vega, Aurora. [Read more...](https://scikit-surgerynditracker.readthedocs.io/en/latest/?badge=latest) |
 | [scikit-surgeryarucotracker](https://github.com/UCL/scikit-surgeryarucotracker) | Interface for OpenCV ARuCo. [Read more...](https://scikit-surgeryarucotracker.readthedocs.io/en/latest/?badge=latest)                                                 |
-| [scikit-surgeryspeech](https://github.com/UCL/scikit-surgeryspeech)             | Speech/Wakeword detection [Read more...](                                                   |
+| [scikit-surgeryspeech](https://github.com/UCL/scikit-surgeryspeech)             | Speech/Wakeword detection                                                   |
 
 
 
