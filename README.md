@@ -18,7 +18,7 @@ Wondering which library is suitable for your job and how to use it? Check out th
 
 | Library                                                                         | Purpose                                                                      |
 |---------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| [scikit-surgerycore](https://github.com/UCL/scikit-surgerycore)                 | Algorithms/tools common to all scikit-surgery packages. [Read more...](https://scikit-surgerycore.readthedocs.io/en/latest/?badge=latest)                       |
+| [scikit-surgerycore](https://github.com/UCL/scikit-surgerycore){:target="_blank"}                 | Algorithms/tools common to all scikit-surgery packages. [Read more...](https://scikit-surgerycore.readthedocs.io/en/latest/?badge=latest)                       |
 | [scikit-surgeryimage](https://github.com/UCL/scikit-surgeryimage)               | Image processing algorithms using OpenCV. [Read more...](https://scikit-surgeryimage.readthedocs.io/en/latest/?badge=latest)                                     |
 | [scikit-surgeryvtk](https://github.com/UCL/scikit-surgeryvtk)                   | Implements VTK functionality for IGS applications. [Read more...](https://scikit-surgeryvtk.readthedocs.io/en/latest/?badge=latest)                            |
 | [scikit-surgeryutils](https://github.com/UCL/scikit-surgeryutils)               | Example applications/utilities. [Read more...](https://scikit-surgeryutils.readthedocs.io/en/latest/?badge=latest)                                               |
