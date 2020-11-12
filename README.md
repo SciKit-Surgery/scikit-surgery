@@ -6,7 +6,8 @@
 ## Introduction:
 -->
 
-
+<br />
+<br />
 SciKit-Surgery libraries implements a family of compact, orthogonal, libraries accompanied by robust testing, documentation, and quality control. SciKit-Surgery libraries can be rapidly assembled into testable clinical applications and subsequently translated to production software without the need for software reimplementation.
 
 ## Getting started:
