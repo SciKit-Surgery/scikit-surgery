@@ -35,13 +35,11 @@ Wondering which library is suitable for your job and how to use it? Check out th
 
 ## Publications:
 
-- Thompson S, Dowrick T, Ahmad M, et al. SciKit-Surgery: compact libraries for surgical navigation. International Journal of Computer Assisted Radiology and Surgery. 2020 Jul;15(7):1075-1084. DOI: 10.1007/s11548-020-02180-5.
-https://doi.org/10.1007/s11548-020-02180-5
+- Thompson S, Dowrick T, Ahmad M, et al. SciKit-Surgery: compact libraries for surgical navigation. International Journal of Computer Assisted Radiology and Surgery. 2020 Jul;15(7):1075-1084. [DOI: 10.1007/s11548-020-02180-5](https://doi.org/10.1007/s11548-020-02180-5).
 https://img.shields.io/badge/Cite-SciKit--Surgery-informational    
 <br />
 
-- Thompson S, Dowrick T, Xiao G, et al. SnappySonic: An Ultrasound Acquisition Replay Simulator. Journal of Open Research Software. 2020 ;8(1):8. DOI: 10.5334/jors.289.
-http://doi.org/10.5334/jors.289
+- Thompson S, Dowrick T, Xiao G, et al. SnappySonic: An Ultrasound Acquisition Replay Simulator. Journal of Open Research Software. 2020 ;8(1):8. [DOI: 10.5334/jors.289](http://doi.org/10.5334/jors.289).
 https://img.shields.io/badge/DOI-10.5334%2Fjors.289-blue
 <br />
 
