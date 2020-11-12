@@ -36,13 +36,13 @@ Wondering which library is suitable for your job and how to use it? Check out th
 ## Publications:
 
 - Thompson S, Dowrick T, Ahmad M, et al. SciKit-Surgery: compact libraries for surgical navigation. International Journal of Computer Assisted Radiology and Surgery. 2020 Jul;15(7):1075-1084. [DOI: 10.1007/s11548-020-02180-5](https://doi.org/10.1007/s11548-020-02180-5).
-https://img.shields.io/badge/Cite-SciKit--Surgery-informational    
+[https://img.shields.io/badge/Cite-SciKit--Surgery-informational](https://img.shields.io/badge/Cite-SciKit--Surgery-informational)    
 <br />
 
 - Thompson S, Dowrick T, Xiao G, et al. SnappySonic: An Ultrasound Acquisition Replay Simulator. Journal of Open Research Software. 2020 ;8(1):8. [DOI: 10.5334/jors.289](http://doi.org/10.5334/jors.289).
-https://img.shields.io/badge/DOI-10.5334%2Fjors.289-blue
+[https://img.shields.io/badge/DOI-10.5334%2Fjors.289-blue](https://img.shields.io/badge/DOI-10.5334%2Fjors.289-blue)
 <br />
 
 - Thompson, S; Dowrick, T; Ahmad, M; Opie, J; Clarkson, M; (2021) Are fiducial registration error and target registration error correlated? SciKit-SurgeryFRED for teaching and research. In: (Proceedings) SPIE Medical Imaging Image-Guided Procedures, Robotic Interventions, and Modeling. SPIE (In press).
-https://discovery.ucl.ac.uk/id/eprint/10112339/
+[https://discovery.ucl.ac.uk/id/eprint/10112339/](https://discovery.ucl.ac.uk/id/eprint/10112339/)
 <br />
