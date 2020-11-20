@@ -58,7 +58,7 @@ Tutorials are split into three groups, those that show how to assemble SciKit-Su
 **General Tutorials**
 
 * `Use SciKit-SurgeryUtils and SciKit-SurgeryArUcoTracker to build an AR application using your webcam. <https://scikit-surgerytutorial01.readthedocs.io/en/latest/>`_
-
+* `ROS Integration <https://scikit-surgery.readthedocs.io/en/latest/ros.html>`_
 **scikit-surgeryvtk**
 
 * `How To Use VTKOverlayWindow <https://scikit-surgeryvtk.readthedocs.io/en/latest/tutorials/overlay_widget.html>`_
