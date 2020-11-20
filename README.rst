@@ -67,6 +67,10 @@ Tutorials are split into three groups, those that show how to assemble SciKit-Su
 
 * `Distance Fields & Voxelisation <https://scikit-surgeryvtk.readthedocs.io/en/latest/tutorials/voxelisation.html>`_
 
+**scikit-surgeryimage**
+
+* `Point/Chessboard detectors <https://scikit-surgeryimage.readthedocs.io/en/latest/tutorials/point_detectors.html#point-detectors>`_
+
 **Educational Tutorials**
 
 * `Use a ready made application to investigate different ways of presenting augmented reality. <https://mphy0026.readthedocs.io/en/latest/summerschool/overlay_demo.html#summerschooloverlay>`_
