@@ -7,11 +7,6 @@ scikit-surgery
    :target: https://github.com/UCL/scikit-surgery
 
 |
-
-.. image:: https://coveralls.io/repos/github/UCL/scikit-surgery/badge.svg?branch=master&service=github
-    :target: https://coveralls.io/github/UCL/scikit-surgery?branch=master
-    :alt: Test coverage
-
 .. image:: https://readthedocs.org/projects/scikit-surgery/badge/?version=latest
     :target: http://scikit-surgery.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
