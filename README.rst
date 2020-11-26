@@ -56,7 +56,7 @@ Tutorials are split into three groups, those that show how to assemble SciKit-Su
 * `ROS Integration <https://scikit-surgery.readthedocs.io/en/latest/ros.html>`_
 **scikit-surgeryvtk**
 
-* `How To Use VTKOverlayWindow <https://scikit-surgeryvtk.readthedocs.io/en/latest/tutorials/overlay_widget.html>`_
+* `How To Use VTKOverlayWindow <https://scikit-surgeryvtk.readthedocs.io/en/latest/tutorials/overlay_window.html>`_
 * `How To Add Text To VTKOverlayWindow <https://scikit-surgeryvtk.readthedocs.io/en/latest/tutorials/text_overlay.html>`_
 * `Using The Rendering Generator <https://scikit-surgeryvtk.readthedocs.io/en/latest/tutorials/rendering_generator.html>`_
 
