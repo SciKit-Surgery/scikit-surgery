@@ -66,6 +66,10 @@ Tutorials are split into three groups, those that show how to assemble SciKit-Su
 
 * `Point/Chessboard detectors <https://scikit-surgeryimage.readthedocs.io/en/latest/tutorials/point_detectors.html#point-detectors>`_
 
+**scikit-surgerycalibration**
+
+`* Camera Calibration <https://scikit-surgerycalibration.readthedocs.io/en/latest/tutorials/calibration.html>`_
+
 **Educational Tutorials**
 
 * `Use a ready made application to investigate different ways of presenting augmented reality. <https://mphy0026.readthedocs.io/en/latest/summerschool/overlay_demo.html#summerschooloverlay>`_
