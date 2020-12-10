@@ -30,6 +30,8 @@ Wondering which library is suitable for your job and how to use it? Check out th
 | [scikit-surgerynditracker](https://github.com/UCL/scikit-surgerynditracker)     | Interface for Northern Digital (NDI) trackers. Vicra, Spectra, Vega, Aurora. [Read more...](https://scikit-surgerynditracker.readthedocs.io/en/latest/?badge=latest) |
 | [scikit-surgeryarucotracker](https://github.com/UCL/scikit-surgeryarucotracker) | Interface for OpenCV ARuCo. [Read more...](https://scikit-surgeryarucotracker.readthedocs.io/en/latest/?badge=latest)                                                 |
 | [scikit-surgeryspeech](https://github.com/UCL/scikit-surgeryspeech)             | Speech/Wakeword detection                                                   |
+| [scikit-surgerydocker](https://github.com/UCL/scikit-surgerydocker)             | Automate containerization of project/algorithm using docker.                                                 |
+| [scikit-surgerychallenge](https://github.com/UCL/scikit-surgerychallenge)       | Automate downloading, execution and results evaluation of submitted docker.                                                   |
 
 
 
