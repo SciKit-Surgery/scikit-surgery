@@ -27,5 +27,14 @@ $hr-border-color: #eff0f1 !default;
 
 //logo
 
+#logo {
+    margin: 0 auto;
+    max-width: 70%;
+    width: auto;
+    height: auto;
+    display: block;
+  }
+  
+
 
 @import "{{ site.theme }}";
