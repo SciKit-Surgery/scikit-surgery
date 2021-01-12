@@ -36,7 +36,11 @@ $hr-border-color: #eff0f1 !default;
   }
   
 
-  .btn {background-color: #008CBA;} /* Blue */
+  .btn {
+    color: #0000ff;
+    border-color: #0000ff; 
+    // background-color: #008CBA;
+  } 
 
 
 
