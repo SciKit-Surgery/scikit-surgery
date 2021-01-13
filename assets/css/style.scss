@@ -1,6 +1,6 @@
 ---
 ---
-@import "{{ site.theme }}";
+
 
 // Breakpoints
 $large-breakpoint: 64em !default;
@@ -10,6 +10,8 @@ $medium-breakpoint: 42em !default;
 $header-heading-color: #000 !default;
 $header-bg-color: #ffff99;
 $header-bg-color-secondary: #ffff99;
+
+@import "{{ site.theme }}";
 
 // Text
 $section-headings-color: #D35400;
