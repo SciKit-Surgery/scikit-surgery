@@ -1,5 +1,6 @@
 ---
 ---
+@import "{{ site.theme }}";
 
 // Breakpoints
 $large-breakpoint: 64em !default;
@@ -36,15 +37,8 @@ $hr-border-color: #eff0f1 !default;
   }
   
 
-$button-color: #0000ff !default;
-$button-border-color: #0000ff !default;
-
-  // .btn {
-  //   color: #0000ff;
-  //   border-color: #0000ff; 
-  //   // background-color: #008CBA;
-  // } 
-
-
-
-@import "{{ site.theme }}";
+  .btn {
+    color: #0000ff;
+    border-color: #0000ff; 
+    // background-color: #008CBA;
+  } 
