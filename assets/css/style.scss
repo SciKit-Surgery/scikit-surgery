@@ -42,14 +42,14 @@ $hr-border-color: #eff0f1 !default;
   
 
   .btn {
-    // color: #0000ff;
+    color: #0000ff;
     border-color: #0000ff; 
-    background-color: #008CBA;
+    // background-color: #008CBA;
   } 
 
   .btn:hover {
-    color: rgba(162, 242, 71, 0.8);
+    color: #0bb6e1cc;
     text-decoration: none;
-    background-color: rgba(156, 133, 2, 0.2);
-    border-color: rgba(255, 255, 255, 0.3);
+    background-color: #7c940ea1;
+    border-color: #0000ff;
   }
