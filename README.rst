@@ -11,6 +11,19 @@ scikit-surgery
     :target: http://scikit-surgery.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
 
+.. image:: https://img.shields.io/badge/Cite-SciKit--Surgery-informational
+   :target: https://doi.org/10.1007/s11548-020-02180-5
+   :alt: The SciKit-Surgery paper
+
+.. image:: https://img.shields.io/twitter/url?style=social&url=http%3A%2F%2Fscikit-surgery.org
+   :target: https://twitter.com/intent/tweet?screen_name=scikit_surgery&ref_src=twsrc%5Etfw
+   :alt: Get in touch via twitter
+
+.. image:: https://img.shields.io/twitter/follow/scikit_surgery?style=social
+   :target: https://twitter.com/scikit_surgery?ref_src=twsrc%5Etfw
+   :alt: Follow scikit_surgery on twitter
+
+
 .. introduction-start
 
 SciKit-Surgery is a collection of compact libraries developed for surgical navigation. Individual libraries can
