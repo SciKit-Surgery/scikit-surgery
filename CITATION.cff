@@ -6,19 +6,45 @@ authors:
   orcid: "https://orcid.org/0000-0001-7286-1326"
 - family-names: "Dowrick"
   given-names: "Thomas"
+  orcid: "https://orcid.org/0000-0002-2712-4447"
 - family-names: "Ahmad"
   given-names: "Mian"
-- family-names: "Xiao"
-  given-names: "Guofang"
-- family-names: "Koo"
-  given-names: "Bongjin"
-- family-names: "Bonmati"
-  given-names: "Ester"
-- family-names: "Kahl"
-  given-names: "Kim"
+  orcid: "https://orcid.org/0000-0002-4706-4146"
 - family-names: "Clarkson"
   given-names: "Matthew"
-title: "SciKit-Surgery: compact libraries for surgical navigation"
-doi: 10.1007/s11548-020-02180-5
-date-released: 2020-07-01
-url: "https://doi.org/10.1007/s11548-020-02180-5"
+  orcid: "https://orcid.org/0000-0002-5565-1252"
+title: "SciKit-Surgery"
+url: "https://github.com/SciKit-Surgery/scikit-surgery"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Thompson"
+    given-names: "Stephen"
+    orcid: "https://orcid.org/0000-0001-7286-1326"
+  - family-names: "Dowrick"
+    given-names: "Thomas"
+    orcid: "https://orcid.org/0000-0002-2712-4447"
+  - family-names: "Ahmad"
+    given-names: "Mian"
+    orcid: "https://orcid.org/0000-0002-4706-4146"
+  - family-names: "Xiao"
+    given-names: "Guofang"
+  - family-names: "Koo"
+    given-names: "Bongjin"
+    orcid: "https://orcid.org/0000-0002-3611-4988"
+  - family-names: "Bonmati"
+    given-names: "Ester"
+    orcid: "https://orcid.org/0000-0001-9217-5438"
+  - family-names: "Kahl"
+    given-names: "Kim"
+  - family-names: "Clarkson"
+    given-names: "Matthew"
+    orcid: "https://orcid.org/0000-0002-5565-1252"
+  doi: 10.1007/s11548-020-02180-5
+  journal: "International journal of computer assisted radiology and surgery"
+  start: 1075
+  end: 1084
+  title: "SciKit-Surgery: Compact Libraries for Surgical Navigation"
+  volume: 15
+  number: 7
+  year: 2020
